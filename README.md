@@ -35,13 +35,6 @@ I used the publicly available [Heart Disease Dataset](https://www.kaggle.com/dat
 
 Random Forest clearly outperformed the Decision Tree in terms of both accuracy and stability.
 
-## Included in this Repository
-
-- heart_analysis.ipynb – Notebook with all code, visualizations, and results
-- Feature importance and tree diagrams (generated using matplotlib)
-- Screenshots of outputs and visualizations
-- This README file
-
 ## Tech Stack
 
 - Python
